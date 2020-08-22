@@ -1,0 +1,28 @@
+Conditional Statements:
+
+Conditional statements are also known as decision making statements. We use these statements when we want to execute a block of code when the given condition is true or false.
+* if statements
+* if-else statements
+* elif statements
+* nested if statements
+
+
+IF STATEMENTS:
+Python if Statement is used for decision-making operations. It contains a body of code which runs only when the condition given in the if statement is true. If the condition is false,
+then the optional else statement runs which contains some code for the else condition.
+
+IF-ELSE STATEMENTS:
+The if statement alone tells us that if a condition is true it will execute a block of statements and if the condition is false it won’t. But what if we want to do something else if the 
+condition is false. Here comes the else statement. We can use the else statement with if statement to execute a block of code when the condition is false.
+
+NESTED-IF STATEMENTS:
+A nested if is an if statement that is the target of another if statement. Nested if statements means an if statement inside another if statement. Yes, Python allows us to nest if 
+statements within if statements. i.e, we can place an if statement inside another if statement.
+
+ELIF STATEMENTS:
+Here, a user can decide among multiple options. The if statements are executed from the top down. As soon as one of the conditions controlling the if is true, the statement 
+associated with that if is executed, and the rest of the ladder is bypassed. If none of the conditions is true, then the final else statement will be executed.
+
+While Statements:
+In python, while loop is used to execute a block of statements repeatedly until a given a condition is satisfied. And when the condition becomes false, the line immediately after the
+loop in program is executed.
